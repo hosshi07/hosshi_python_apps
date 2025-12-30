@@ -1,0 +1,2 @@
+# hosshi_python_apps
+pythonで作ったアプリケーションを入れるね
